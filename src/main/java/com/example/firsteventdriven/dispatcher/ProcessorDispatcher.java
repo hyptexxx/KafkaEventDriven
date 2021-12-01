@@ -1,8 +1,8 @@
 package com.example.firsteventdriven.dispatcher;
 
+import com.example.firsteventdriven.processor.EventProcessor;
 import com.example.firsteventdriven.processor.base.EventMessage;
 import com.example.firsteventdriven.processor.base.EventType;
-import com.example.firsteventdriven.processor.EventProcessor;
 import org.springframework.stereotype.Component;
 
 import java.util.EnumMap;
